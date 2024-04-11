@@ -8,5 +8,9 @@ int main()
 
 return 0;
 
+<<<<<<< HEAD
 printf("Merging");
+=======
+  #nemre odje
+>>>>>>> main
 }
