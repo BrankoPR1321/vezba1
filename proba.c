@@ -7,4 +7,6 @@ int main()
   printf("Nova izmena!"); #napravi pull
 
 return 0;
+
+  #nemre odje
 }
